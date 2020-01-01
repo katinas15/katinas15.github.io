@@ -54,7 +54,9 @@ I recetly completed an online course learned how to use Unity and make games. Th
 
 
 [Codingame profile](https://www.codingame.com/profile/df8e16abde9b88d3623eaf9f7e13f8899915731) - programming puzzles
-[Shutterstock Photos](https://www.shutterstock.com/g/laimisj?rid=177746324) - some photos of mine during vacations
+<br />
+[Shutterstock Photos](https://www.shutterstock.com/g/laimisj?rid=177746324) - some photos that I took during vacations
+<br />
 
 
 
