@@ -13,7 +13,8 @@ Currently studying: Software Engineering (Bachelor's degree)
 
 Most of these projects are unfinished, but I am still proud to show these projects since they took quite some time and effort. I have learned a lot doing these projects and I am happy to show what I have learned. 
 <br />
-[Github Profile](https://github.com/katinas15) - most of my projects are here
+<br />
+[Github Profile](https://github.com/katinas15) - most of my projects are here.
 <br />
 
 ## Simple Unity C# games
