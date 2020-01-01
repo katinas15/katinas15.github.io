@@ -39,9 +39,9 @@ I recetly completed an online course learned how to use Unity and make games. Th
 ![Image](block.gif) 
 <br />
 <br /> 
-[Game Git Repository](https://github.com/katinas15/Labyrinth_crawler)
+[Game Git Repository](https://github.com/katinas15/Block-Hopper)
 <br />
-[Labirynth crawler Demo](https://katinas15.itch.io/blockhopperkatinas) - online game DEMO 
+[Block Hopper Demo](https://katinas15.itch.io/blockhopperkatinas) - online game DEMO 
 
 ## Websites
 
