@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Short personal info
 
-You can use the [editor on GitHub](https://github.com/katinas15/katinas15.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Name: Laimonas Janutėnas
+Age: 21
+Occupation: Student, Vilnius Gediminas Technical University
 
 ### Markdown
 
