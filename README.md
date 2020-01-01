@@ -13,8 +13,12 @@ Currently studying: Software Engineering (Bachelor's degree)
 
 Most of these projects are unfinished, but I am still proud to show these projects since they took quite some time and effort. I have learned a lot doing these projects and I am happy to show what I have learned. 
 <br />
+[Github Profile](https://github.com/katinas15) - most of my projects are here
+<br />
 
 ## Simple Unity C# games
+
+
 
 I recetly completed an online course learned how to use Unity and make games. The games I made are simple and unfinished, but they are a great start for me.
 <br />
@@ -49,8 +53,8 @@ I recetly completed an online course learned how to use Unity and make games. Th
 ## Other
 
 
-[Codingame Coding puzzles](https://www.codingame.com/profile/df8e16abde9b88d3623eaf9f7e13f8899915731)
-[Shutterstock Photos](https://www.shutterstock.com/g/laimisj?rid=177746324)
+[Codingame profile](https://www.codingame.com/profile/df8e16abde9b88d3623eaf9f7e13f8899915731) - programming puzzles
+[Shutterstock Photos](https://www.shutterstock.com/g/laimisj?rid=177746324) - some photos of mine during vacations
 
 
 
