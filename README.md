@@ -26,6 +26,7 @@ I recetly completed an online course learned how to use Unity and make games. Th
 <br /> 
 <br />
 [Game Git Repository](https://github.com/katinas15/Labyrinth_crawler)
+<br />
 [Labirynth crawler Demo](https://katinas15.itch.io/katinaslabyrinthcrawlerdemo) - online game DEMO 
 <br /> 
 <br />
@@ -39,6 +40,7 @@ I recetly completed an online course learned how to use Unity and make games. Th
 <br />
 <br /> 
 [Game Git Repository](https://github.com/katinas15/Labyrinth_crawler)
+<br />
 [Labirynth crawler Demo](https://katinas15.itch.io/blockhopperkatinas) - online game DEMO 
 
 ## Websites
