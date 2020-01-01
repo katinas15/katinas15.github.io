@@ -5,34 +5,22 @@ Age: 21 <br />
 Occupation: Student, Vilnius Gediminas Technical University <br />
 Studies: Bachelors degree, Software Engineering <br />
 
-### Markdown
+# Personal projects and hobbies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Most of these projects are unfinished, but I am still proud to show these projects since they took quite some time and effort. I have learned a lot doing these projects and I am happy to show what I have learned. <br />
+<br />
 
-```markdown
-Syntax highlighted code block
+## Simple Unity C# games
 
-# Header 1
-## Header 2
-### Header 3
+I recetly completed an online course learned how to use Unity and make games. The games I made are simple and unfinished, but they are a great start for me.
+<br />
 
-- Bulleted
-- List
+<b>Labyrinth crawler</b> - was a group project for my university, I was responsible of programming the game. Main goal of the game is to find a way out of the labyrinth using various tool and fighting simple enemies. This was my first real project after completing the course. 
+[Image](crawler.png)
+[Labirynth crawler Demo](https://katinas15.itch.io/katinaslabyrinthcrawlerdemo)
 
-1. Numbered
-2. List
+## Websites
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katinas15/katinas15.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
