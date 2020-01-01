@@ -1,8 +1,9 @@
 ## Short personal info
 
-Name: Laimonas Janutėnas
-Age: 21
-Occupation: Student, Vilnius Gediminas Technical University
+Name: Laimonas Janutėnas\
+Age: 21\
+Occupation: Student, Vilnius Gediminas Technical University\
+Studies: Bachelors degree, Software Engineering\
 
 ### Markdown
 
