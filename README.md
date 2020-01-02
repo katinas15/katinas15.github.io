@@ -63,8 +63,9 @@ One of my bigger projects in university was a to do list made in java using vari
 * Hibernate
 * Spring MVC
 * Android
-<br /
-This is a more complex to do list that has users, project, tasks and companies. Projects can have users and tasks, companies can have users and projects. It is more like a group project management system, where every user in the project (or company) can see tasks, finish them, edit, create etc.
+<br />
+This is a more complex to do list that has users, project, tasks and companies. Projects can have users and tasks, companies can have users and projects. It is more like a group project management system, where every user in the project (or company) can see tasks, finish them, edit, create etc. This project has a dektop application, Web server and an Android application.
+
 <br />
 <br />
 ![Image](java desky.png) 
