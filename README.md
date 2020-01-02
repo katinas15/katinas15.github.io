@@ -68,9 +68,9 @@ This is a more complex to do list that has users, project, tasks and companies. 
 
 <br />
 <br />
-![Image](java desky.png) 
+![Image](javadesk.png) 
 <br />
-![Image](java andr.png) 
+![Image](javaandr.png) 
 <br />
 [To Do List Repository](https://github.com/katinas15/ToDoList-java-)
 
