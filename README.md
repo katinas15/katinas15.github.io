@@ -53,11 +53,11 @@ After learning how to make websites and create web designs I was able to make a 
 <br />
 [inovtechna.lt](http://inovtechna.lt/)
 <br />
-![Image](inov.PNG) 
+![Image](inov.png) 
 <br />
 [domimeda.lt](https://domimeda.com/)
 <br />
-![Image](dom.PNG) 
+![Image](dom.png) 
 
 ## Other
 
