@@ -19,8 +19,6 @@ Most of these projects are unfinished, but I am still proud to show these projec
 
 ## Simple Unity C# games
 
-
-
 I recetly completed an online course learned how to use Unity and make games. The games I made are simple and unfinished, but they are a great start for me.
 <br />
 
@@ -37,7 +35,7 @@ I recetly completed an online course learned how to use Unity and make games. Th
 <br />
 
 
-<b>Labyrinth crawler</b> - was a group project for my university, I was responsible of programming the game. Main goal of the game is to find a way out of the labyrinth using various tool and fighting simple enemies. This was my first real project after completing the course. 
+<b>Labyrinth crawler</b> - was a group project for my university, I was responsible of programming the game. Main goal of the game is to find a way out of the labyrinth using various tool and fighting simple enemies. This was my first real project after completing the online course. 
 <br />
 <br />
 ![Image](crawler.png) 
@@ -50,6 +48,15 @@ I recetly completed an online course learned how to use Unity and make games. Th
 
 ## Websites
 
+After learning how to make websites and create web designs I was able to make a little bit of money by making few simple static websites.
+<br />
+[inovtechna.lt](http://inovtechna.lt/)
+<br />
+![Image](inov.png) 
+<br />
+[domimeda.lt](https://domimeda.com/)
+<br />
+![Image](dom.png) 
 
 ## Other
 
