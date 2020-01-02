@@ -50,13 +50,14 @@ I recetly completed an online course learned how to use Unity and make games. Th
 
 After learning how to make websites and create web designs I was able to make a little bit of money by making few simple static websites.
 <br />
+<br />
 [inovtechna.lt](http://inovtechna.lt/)
 <br />
-![Image](inov.png) 
+![Image](inov.PNG) 
 <br />
 [domimeda.lt](https://domimeda.com/)
 <br />
-![Image](dom.png) 
+![Image](dom.PNG) 
 
 ## Other
 
