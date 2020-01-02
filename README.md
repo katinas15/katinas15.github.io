@@ -27,8 +27,6 @@ I recetly completed an online course learned how to use Unity and make games. Th
 <br /> 
 ![Image](block.gif) 
 <br />
-<br /> 
-[Game Git Repository](https://github.com/katinas15/Block-Hopper)
 <br />
 [Block Hopper Demo](https://katinas15.itch.io/blockhopperkatinas) - online game DEMO 
 <br />
