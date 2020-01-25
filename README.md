@@ -49,13 +49,24 @@ I recetly completed an online course learned how to use Unity and make games. Th
 After learning how to make websites and create web designs I was able to make a little bit of money by making few simple static websites.
 <br />
 <br />
-[inovtechna.lt](http://inovtechna.lt/)
+
 <br />
-![Image](inov.png) 
+  <p align="center">
+    ![Image](inov.png) 
+    <br />
+    [inovtechna.lt](http://inovtechna.lt/)
+  </p>
+  
 <br />
-[domimeda.lt](https://domimeda.com/)
+  
+  <p align="center">
+    ![Image](dom.png) 
+    <br />
+    [domimeda.lt](https://domimeda.com/)
+  </p>
+  
 <br />
-![Image](dom.png) 
+
 
 ## Java
 
@@ -67,6 +78,7 @@ One of my bigger projects in university was a to do list made in java using vari
 <br />
 This is a more complex to do list that has users, project, tasks and companies. Projects can have users and tasks, companies can have users and projects. It is more like a group project management system, where every user in the project (or company) can see tasks, finish them, edit, create etc. This project has a dektop application, Web server and an Android application.
 
+<br />
 <br />
 
   <p align="center">
