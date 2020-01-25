@@ -104,7 +104,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 <br />
 
   <p align="center">
-    <img src="gardening1.png">
+    <img src="gardening1.jpg">
   <br />
    Arduino gardening system
    </p>
@@ -112,7 +112,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 <br />
 
   <p align="center">
-    <img src="gardening.png">
+    <img src="gardening2.jpg">
   <br />
    Arduino gardening system
    </p>
