@@ -54,6 +54,8 @@ After learning how to make websites and create web designs I was able to make a 
   <p align="center">
     <img src="inov.png">
     <br />
+    Inovtechna
+    <br />
     <a href="http://inovtechna.lt/">Link to website</a>
   </p>
   
@@ -61,6 +63,8 @@ After learning how to make websites and create web designs I was able to make a 
   
   <p align="center">
     <img src="dom.png">
+    <br />
+    Domimeda
     <br />
     <a href="https://domimeda.com/">Link to website</a>
   </p>
