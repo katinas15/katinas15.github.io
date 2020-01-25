@@ -68,6 +68,8 @@ After learning how to make websites and create web designs I was able to make a 
     <br />
     <a href="https://domimeda.com/">Link to website</a>
   </p>
+  
+### Node.js
 
 
 ## Java
@@ -116,7 +118,7 @@ Features:
   - Change the interval on how often the moisture should be checked
   - Immediately check current moisture status
   - Plant analysis - analyse how ofter the plant was watered during which period and etc. (in progress)
-- Supports up to 8 plants! (currently, it is possible to have even more!)
+- Supports up to 8 plants! (currently, but it is possible to have even more!)
 <br />
 <br />
 A lot has been done in this project, but there is still a lot to be done: cleaner code, better appearance (phisycal and digital), more analysis options and more. My final goal is to make this system look like a full product.
@@ -139,11 +141,7 @@ A lot has been done in this project, but there is still a lot to be done: cleane
 
 ## Other
 
-
 [Codingame profile](https://www.codingame.com/profile/df8e16abde9b88d3623eaf9f7e13f8899915731) - programming puzzles
 <br />
 [Shutterstock Photos](https://www.shutterstock.com/g/laimisj?rid=177746324) - some photos that I took during vacations
 <br />
-
-
-
