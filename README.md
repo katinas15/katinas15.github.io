@@ -71,6 +71,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 
   <p align="center">
     <img src="javadesk.png">
+  <br />
    Program for desktop
    </p>
  
@@ -78,6 +79,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 
 <p align="center">
   <img src="javaandr.png">
+  <br />
   Android app
 </p>
 
