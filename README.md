@@ -25,13 +25,13 @@ I recetly completed an online course learned how to use Unity and make games. Th
 <b>Block Hopper</b> - is my most recent project. This is a project I intend to finish by myself and release someday. Most difficult challenge for me was creating pixel art rather than programming. Learning art is a completely different experience for me, but with a lot of time I finally grasped the basics of how to make something decent (at least for me).
 <br />
 <br /> 
-![Image](block.gif) 
+    <p align="center">
+      <img src="block.gif">
+       <br />
+      https://katinas15.itch.io/blockhopperkatinas - Game DEMO 
+    </p>
 <br />
 <br />
-[Block Hopper Demo](https://katinas15.itch.io/blockhopperkatinas) - online game DEMO 
-<br />
-<br />
-
 
 <b>Labyrinth crawler</b> - was a group project for my university, I was responsible of programming the game. Main goal of the game is to find a way out of the labyrinth using various tool and fighting simple enemies. This was my first real project after completing the online course. 
 <br />
@@ -41,9 +41,9 @@ I recetly completed an online course learned how to use Unity and make games. Th
     <br />
     Labirynth Crawler
     <br />
-    [Game Git Repository](https://github.com/katinas15/Labyrinth_crawler)
+    https://github.com/katinas15/Labyrinth_crawler - Git Repository
     <br />
-    [Labirynth crawler Demo](https://katinas15.itch.io/katinaslabyrinthcrawlerdemo) - online game DEMO 
+    https://katinas15.itch.io/katinaslabyrinthcrawlerdemo - Game DEMO 
   </p>
 <br /> 
 <br />
