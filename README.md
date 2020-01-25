@@ -41,7 +41,7 @@ I recetly completed an online course learned how to use Unity and make games. Th
     <br />
     Labirynth Crawler
     <br />
-    https://github.com/katinas15/Labyrinth_crawler - Git Repository
+    https://github.com/katinas15/Labyrinth_crawler - Game git repository
     <br />
     https://katinas15.itch.io/katinaslabyrinthcrawlerdemo - Game DEMO 
   </p>
@@ -99,7 +99,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 </p>
 
 <br />
-[To Do List Repository](https://github.com/katinas15/ToDoList-java-)
+https://github.com/katinas15/ToDoList-java- - To Do List git repository
 
 ## Arduino
 
