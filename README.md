@@ -27,7 +27,7 @@ I recetly completed an online course learned how to use Unity and make games. Th
     <p align="center">
       <img src="block.gif">
        <br />
-      <a src="https://katinas15.itch.io/blockhopperkatinas">Game DEMO</a>
+      <a href="https://katinas15.itch.io/blockhopperkatinas">Game DEMO</a>
     </p>
 <br />
 
@@ -38,9 +38,9 @@ I recetly completed an online course learned how to use Unity and make games. Th
     <br />
     Labirynth Crawler
     <br />
-    <a src="https://github.com/katinas15/Labyrinth_crawler">Game git repository</a>
+    <a href="https://github.com/katinas15/Labyrinth_crawler">Game git repository</a>
     <br />
-    <a src="https://katinas15.itch.io/katinaslabyrinthcrawlerdemo">Game DEMO</a>
+    <a href="https://katinas15.itch.io/katinaslabyrinthcrawlerdemo">Game DEMO</a>
   </p>
 
 
@@ -52,7 +52,7 @@ After learning how to make websites and create web designs I was able to make a 
   <p align="center">
     <img src="inov.png">
     <br />
-    <a src="http://inovtechna.lt/">Link to website</a>
+    <a href="http://inovtechna.lt/">Link to website</a>
   </p>
   
 <br />
@@ -60,7 +60,7 @@ After learning how to make websites and create web designs I was able to make a 
   <p align="center">
     <img src="dom.png">
     <br />
-    <a src="https://domimeda.com/">Link to website</a>
+    <a href="https://domimeda.com/">Link to website</a>
   </p>
 
 
@@ -77,7 +77,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 <br />
 
   <p align="center">
-    <img src="javadesk.png">
+    <img href="javadesk.png">
   <br />
    Program for desktop
    </p>
@@ -85,13 +85,13 @@ This is a more complex to do list that has users, project, tasks and companies. 
 <br />
 
 <p align="center">
-  <img src="javaandr.png">
+  <img href="javaandr.png">
   <br />
   Android app
 </p>
 
 <br />
-<a src="https://github.com/katinas15/ToDoList-java-">To Do List git repository</a>
+<a href="https://github.com/katinas15/ToDoList-java-">To Do List git repository</a>
 
 ## Arduino
 
