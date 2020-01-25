@@ -54,7 +54,7 @@ After learning how to make websites and create web designs I was able to make a 
   <p align="center">
     <img src="inov.png">
     <br />
-    [inovtechna.lt](http://inovtechna.lt/)
+    http://inovtechna.lt/
   </p>
   
 <br />
@@ -62,7 +62,7 @@ After learning how to make websites and create web designs I was able to make a 
   <p align="center">
     <img src="dom.png">
     <br />
-    [domimeda.lt](https://domimeda.com/)
+    https://domimeda.com/
   </p>
   
 <br />
