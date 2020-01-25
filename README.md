@@ -52,7 +52,7 @@ After learning how to make websites and create web designs I was able to make a 
 
 <br />
   <p align="center">
-    ![Image](inov.png) 
+    <img src="inov.png">
     <br />
     [inovtechna.lt](http://inovtechna.lt/)
   </p>
@@ -60,7 +60,7 @@ After learning how to make websites and create web designs I was able to make a 
 <br />
   
   <p align="center">
-    ![Image](dom.png) 
+    <img src="dom.png">
     <br />
     [domimeda.lt](https://domimeda.com/)
   </p>
