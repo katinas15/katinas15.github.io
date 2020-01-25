@@ -115,7 +115,7 @@ Features:
   - Initiate watering of all plants
   - Change the interval on how often the moisture should be checked
   - Immediately check current moisture status
-  - Plant analysis - check how ofter the plant was watered and etc. (in progress)
+  - Plant analysis - analyse how ofter the plant was watered during which period and etc. (in progress)
 - Supports up to 8 plants! (currently, it is possible to have even more!)
 <br />
 <br />
@@ -136,8 +136,6 @@ A lot has been done in this project, but there is still a lot to be done: cleane
   <br />
    Arduino gardening system
    </p>
-
-## Node.js
 
 ## Other
 
