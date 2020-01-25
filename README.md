@@ -71,12 +71,14 @@ This is a more complex to do list that has users, project, tasks and companies. 
 
   <p align="center">
     <img src="javadesk.png">
+   Program for desktop
    </p>
  
 <br />
 
 <p align="center">
-<img src="javaandr.png">
+  <img src="javaandr.png">
+  Android app
 </p>
 
 <br />
