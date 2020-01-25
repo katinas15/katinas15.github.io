@@ -70,13 +70,13 @@ This is a more complex to do list that has users, project, tasks and companies. 
 <br />
 
   <p align="center">
-    ![Image](javadesk.png) 
+    <img src="javadesk.png">
    </p>
  
 <br />
 
 <p align="center">
-![Image](javaandr.png) 
+<img src="javaandr.png">
 </p>
 
 <br />
