@@ -27,7 +27,7 @@ I recetly completed an online course learned how to use Unity and make games. Th
     <p align="center">
       <img src="block.gif">
        <br />
-      https://katinas15.itch.io/blockhopperkatinas - Game DEMO 
+      <a src="https://katinas15.itch.io/blockhopperkatinas">Game DEMO</a>
     </p>
 <br />
 
@@ -38,9 +38,9 @@ I recetly completed an online course learned how to use Unity and make games. Th
     <br />
     Labirynth Crawler
     <br />
-    https://github.com/katinas15/Labyrinth_crawler - Game git repository
+    <a src="https://github.com/katinas15/Labyrinth_crawler">Game git repository</a>
     <br />
-    https://katinas15.itch.io/katinaslabyrinthcrawlerdemo - Game DEMO 
+    <a src="https://katinas15.itch.io/katinaslabyrinthcrawlerdemo">Game DEMO</a>
   </p>
 
 
@@ -52,7 +52,7 @@ After learning how to make websites and create web designs I was able to make a 
   <p align="center">
     <img src="inov.png">
     <br />
-    http://inovtechna.lt/
+    <a src="http://inovtechna.lt/">Link to website</a>
   </p>
   
 <br />
@@ -60,7 +60,7 @@ After learning how to make websites and create web designs I was able to make a 
   <p align="center">
     <img src="dom.png">
     <br />
-    https://domimeda.com/
+    <a src="https://domimeda.com/">Link to website</a>
   </p>
 
 
@@ -91,7 +91,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 </p>
 
 <br />
-https://github.com/katinas15/ToDoList-java- - To Do List git repository
+<a src="https://github.com/katinas15/ToDoList-java-">To Do List git repository</a>
 
 ## Arduino
 
