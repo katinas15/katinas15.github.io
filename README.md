@@ -36,18 +36,21 @@ I recetly completed an online course learned how to use Unity and make games. Th
 <b>Labyrinth crawler</b> - was a group project for my university, I was responsible of programming the game. Main goal of the game is to find a way out of the labyrinth using various tool and fighting simple enemies. This was my first real project after completing the online course. 
 <br />
 <br />
-![Image](crawler.png) 
+  <p align="center">
+    <img src="crawler.png">
+    <br />
+    Labirynth Crawler
+    <br />
+    [Game Git Repository](https://github.com/katinas15/Labyrinth_crawler)
+    <br />
+    [Labirynth crawler Demo](https://katinas15.itch.io/katinaslabyrinthcrawlerdemo) - online game DEMO 
+  </p>
 <br /> 
-<br />
-[Game Git Repository](https://github.com/katinas15/Labyrinth_crawler)
-<br />
-[Labirynth crawler Demo](https://katinas15.itch.io/katinaslabyrinthcrawlerdemo) - online game DEMO 
 <br />
 
 ## Websites
 
 After learning how to make websites and create web designs I was able to make a little bit of money by making few simple static websites.
-<br />
 <br />
 
 <br />
