@@ -101,6 +101,26 @@ This is a more complex to do list that has users, project, tasks and companies. 
 
 ## Arduino
 
+This is a project I have been working for quite a while. It is a automated gardening system made with Arduino. Not only you can water the plants by checking their moisture, but also send data about the plant to a server, then monitor and maintain plants wirelessly!
+<br />
+<br />
+Features:
+- Check moisture of a plant
+- Water it using a pump
+- Check if the water tank is empty
+- Track how much water was poured
+- Send sensor data to server (moisture, amounts of water, water tank status)
+- Automatically connect to wifi (without embedding wifi name and password into code)
+- Monitor and maintain the system wirelessly:
+  - Initiate watering of all plants
+  - Change the interval on how often the moisture should be checked
+  - Immediately check current moisture status
+  - Plant analysis - check how ofter the plant was watered and etc. (in progress)
+- Supports up to 8 plants! (currently, it is possible to have even more!)
+<br />
+<br />
+A lot has been done in this project, but there is still a lot to be done: cleaner code, better appearance (phisycal and digital), more analysis options and more. My final goal is to make this system look like a full product.
+
 <br />
 
   <p align="center">
@@ -116,6 +136,8 @@ This is a more complex to do list that has users, project, tasks and companies. 
   <br />
    Arduino gardening system
    </p>
+
+## Node.js
 
 ## Other
 
