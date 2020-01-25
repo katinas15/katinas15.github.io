@@ -26,6 +26,8 @@ I recetly completed an online course learned how to use Unity and make games. Th
 <br />
     <p align="center">
       <img src="block.gif">
+        <br />
+        Block Hopper
        <br />
       <a href="https://katinas15.itch.io/blockhopperkatinas">Game DEMO</a>
     </p>
@@ -77,7 +79,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 <br />
 
   <p align="center">
-    <img href="javadesk.png">
+    <img src="javadesk.png">
   <br />
    Program for desktop
    </p>
@@ -85,7 +87,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 <br />
 
 <p align="center">
-  <img href="javaandr.png">
+  <img src="javaandr.png">
   <br />
   Android app
 </p>
