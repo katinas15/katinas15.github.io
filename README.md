@@ -42,7 +42,7 @@ I recetly completed an online course learned how to use Unity and make games. Th
     <br />
     https://katinas15.itch.io/katinaslabyrinthcrawlerdemo - Game DEMO 
   </p>
-<br /> 
+
 
 ## Websites
 
@@ -63,8 +63,6 @@ After learning how to make websites and create web designs I was able to make a 
     <br />
     https://domimeda.com/
   </p>
-  
-<br />
 
 
 ## Java
