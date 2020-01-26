@@ -114,7 +114,7 @@ This is a more complex to do list that has users, project, tasks and companies. 
 
 ## Arduino
 
-This is a project I have been working for quite a while. It is a automated gardening system made with Arduino. Not only you can water the plants, but also collect data about the plant, then monitor and maintain plants wirelessly!
+This is a project I have been working for quite a while. It is a automated gardening system made with Arduino. Not only you can water the plants, but also collect data about the plant, then monitor and maintain plants wirelessly (PHP server)!
 <br />
 <br />
 Features:
