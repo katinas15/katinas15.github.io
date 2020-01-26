@@ -83,12 +83,10 @@ After learning how to make websites and create web designs I was able to make a 
   
 ### PHP
 
-Currently I'm working on a content management system build in PHP as part of my online course. There is nothing to show yet, but I want to show that I have worked with PHP before.
-
+Currently I'm working on a content management system build in PHP as part of my online course. There is nothing to see yet, I only want to show that I have worked with PHP before.
 </br>
 
 [PHP-cms](https://github.com/katinas15/php-CMS)
-
 </br>
 (Also Arduino project below is also made with the help of PHP)
 
