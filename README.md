@@ -83,6 +83,16 @@ After learning how to make websites and create web designs I was able to make a 
   
 ### PHP
 
+Currently I'm working on a content management system build in PHP as part of my online course. There is nothing to show yet, but I want to show that I have worked with PHP before.
+
+</br>
+</br>
+
+[PHP-cms](https://github.com/katinas15/php-CMS)
+
+</br>
+(Also Arduino project below is also made with the help of PHP)
+
 ## Java
 
 One of my bigger projects in university was a to do list made in java using various technologies like:
@@ -132,7 +142,7 @@ Features:
 - Supports up to 8 plants! (currently, but it is possible to have even more!)
 <br />
 <br />
-A lot has been done in this project, but there is still a lot to be done: cleaner code, better appearance (phisycal and digital), better analysis and more. My final goal is to make this system look like a full product.
+A lot has been done in this project, but there is still a lot more to be done: cleaner code, better appearance (phisycal and digital), better analysis and other. My final goal is to make this system look like a full product.
 
 <br />
 
