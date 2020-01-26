@@ -14,7 +14,7 @@ Currently studying: Software Engineering (Bachelor's degree)
 Most of these projects are unfinished, but I am still proud to show these projects since they took quite some time and effort. I have learned a lot doing these projects and I am happy to show what I have learned. 
 <br />
 <br />
-[Github Profile](https://github.com/katinas15) - most of my projects are here (some projects shown here are in private repositories).
+[Github Profile](https://github.com/katinas15) - most of my projects are here (but some projects shown here are in private repos).
 <br />
 
 ## Simple Unity C# games
@@ -71,6 +71,17 @@ After learning how to make websites and create web designs I was able to make a 
   
 ### Node.js
 
+<b>Ascii art land</b> - is a similar project that I build during my online course. It is a dynamic website, that lets user login, create new posts, edit and delete them (CRUD). My future goal for this project is to make a fully working online ascii art editor, somthing similar to "Paint", but for text art.
+
+  <p align="center">
+    <img src="ascii.png">
+    <br />
+    Ascii art land
+    <br />
+    <a href="https://ascii-art-land.herokuapp.com/">Link to website (DEMO)</a>
+  </p>
+  
+### PHP
 
 ## Java
 
@@ -103,12 +114,12 @@ This is a more complex to do list that has users, project, tasks and companies. 
 
 ## Arduino
 
-This is a project I have been working for quite a while. It is a automated gardening system made with Arduino. Not only you can water the plants by checking their moisture, but also send data about the plant to a server, then monitor and maintain plants wirelessly!
+This is a project I have been working for quite a while. It is a automated gardening system made with Arduino. Not only you can water the plants, but also collect data about the plant, then monitor and maintain plants wirelessly!
 <br />
 <br />
 Features:
 - Check moisture of a plant
-- Water it using a pump
+- Water plants using a pump
 - Check if the water tank is empty
 - Track how much water was poured
 - Send sensor data to server (moisture, amounts of water, water tank status)
@@ -116,12 +127,12 @@ Features:
 - Monitor and maintain the system wirelessly:
   - Initiate watering of all plants
   - Change the interval on how often the moisture should be checked
-  - Immediately check current moisture status
+  - Immediately check current plant moisture status
   - Plant analysis - analyse how ofter the plant was watered during which period and etc. (in progress)
 - Supports up to 8 plants! (currently, but it is possible to have even more!)
 <br />
 <br />
-A lot has been done in this project, but there is still a lot to be done: cleaner code, better appearance (phisycal and digital), more analysis options and more. My final goal is to make this system look like a full product.
+A lot has been done in this project, but there is still a lot to be done: cleaner code, better appearance (phisycal and digital), better analysis and more. My final goal is to make this system look like a full product.
 
 <br />
 
