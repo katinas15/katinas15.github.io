@@ -71,7 +71,7 @@ After learning how to make websites and create web designs I was able to make a 
   
 ### Node.js
 
-<b>Ascii art land</b> - is a similar project that I build during my online course. It is a dynamic website, that lets user login, create new posts, edit and delete them (CRUD). My future goal for this project is to make a fully working online ascii art editor, somthing similar to "Paint", but for text art.
+<b>Ascii art land</b> - is a similar project that I build during my online course. It is a dynamic website, that lets user login, create new posts, edit and delete them (CRUD). My future goal for this project is to add a fully working online ascii art editor. Something similar to "Paint", but for text art.
 
   <p align="center">
     <img src="ascii.png">
